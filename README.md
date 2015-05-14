@@ -1,2 +1,10 @@
-# team-training-day
-Abletech team training 
+# Abletech team training 
+
+## AGENDA:
+
+## Challenge One:
+
+## Challenge Two:
+
+etc...
+
