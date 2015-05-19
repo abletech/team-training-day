@@ -31,6 +31,12 @@ Abletech's team training day 2015
 
 ###Code Challenge Three (Refactor this!):
 
+If you hadn't heard of Sudoku, that is forgivable, BUT if you haven't heard of Bingo then there really is no excuse. This next exercise requires you to refactor the code that someone wrote to create a command line automatic Bingo game.
+
+Why don't you start by running the [driver script](refactor_this/driver_script.rb) to understand what it is doing. Makes sense?
+
+Now you're ready to see what is under the hood. Check out
+
 ###Code Challenge Four (tbd):
 
 ###Code Off:
