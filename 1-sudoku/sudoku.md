@@ -100,6 +100,12 @@ Again, **note**, this first iteration might not solve every possible Sudoku boar
 
 Don't worry about the particular format of the board when printed. The key thing is getting the logic around solving/guessing correctly.
 
+Remember, always start with the simplest test case possible. For a Sudoku solver, what's the simplest case? (Besides being passed an already-solved board.) Working with a board that is only missing one number.
+
+```
+609238745274561398853947621486352179792614583531879264945723816328196457167485932
+```
+
 #### What about performance?
 
 Do *not* worry about performance yet! Optimizations can come later. Clean, logical code is more important and will be easier to refactor.
@@ -116,15 +122,6 @@ Most people who play Sudoku "guess," usually by writing possibilities in the cor
 Once we've filled in all cells which have only one possible value, we have to guess.  Write out pseudocode for how that might work before you dive in!
 
 This solver should now be able to solve any Sudoku puzzle, although some will take a long time.  Try it with the `sample.unsolved.txt` file in the source folder.
-
-
-###Release 2 : Testing!
-
-Remember, always start with the simplest test case possible. For a Sudoku solver, what's the simplest case? (Besides being passed an already-solved board.) Working with a board that is only missing one number.
-
-```
-609238745274561398853947621486352179792614583531879264945723816328196457167485932
-```
 
 <!-- ##Optimize Your Learning -->
 
