@@ -34,9 +34,11 @@ It's time to forget about Sudokus and race off in Javascript fuled racecar. In t
 When you're ready head on over to the [the start line](2-javascript_racer/javascript_racer.md) and get to it.
 
 
-###Retrospective & Quickfire Quiz:
+###Retrospective:
 
-###Lightning Talks & Presentation:
+###Quickfire Quiz:
+
+###Presentation:
 
 ###Code Challenge Three (Refactor this!):
 
@@ -46,9 +48,6 @@ Why don't you start by running the [driver script](3-refactor_this/driver_script
 
 Now you're ready to see what is under the hood. Check out [the readme](3-refactor_this/refactor_this.md) and get started.
 
-###Code Challenge Four (tbd):
-
-###Code Off:
 
 
 
