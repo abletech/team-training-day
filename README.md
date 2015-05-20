@@ -23,11 +23,12 @@ Abletech's team training day 2015
 
 ###Code Challenge One (Sudoku Solver):
 
-Everyone loves a good puzzle, and unless you were under a rock in 2005, you would be somewhat familiar with the cult classic the Sudoku. Today, you're going to build a script that will ensure you never fail in completing a Sudoku again - a command line sudoku solver.
+###Code Challenge Two (Javascript Racer):
 
-Head on over to [this readme](1-sudoku/sudoku.md) to see what the challenge entails, and get to it!
+It's time to forget about Sudokus and race off in Javascript fuled racecar. In this next challenge we're going to build a Javascript based speedway game! We'll build a track and two 'cars' will be able to race along it to the finish. We'll only be using HTML, CSS and Javascript (no Coffeescript) in this challenge. It also has an extension element to it. We don't expect you to get there, but if you wizz right through Part One, go ahead and move on.
 
-###Code Challenge Two (Amazin' Javascript):
+When you're ready head on over to the [the start line](javascript_racer/javascript_racer.md) and get to it.
+
 
 ###Retrospective & Quickfire Quiz:
 
