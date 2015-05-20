@@ -25,7 +25,7 @@ Abletech's team training day 2015
 
 Everyone loves a good puzzle, and unless you were under a rock in 2005, you would be somewhat familiar with the cult classic the Sudoku. Today, you're going to build a script that will ensure you never fail in completing a Sudoku again - a command line sudoku solver.
 
-Work through the release and see how far you get. Be sure to read through all of [the requirements](1-sudoku/sudoku.rb) before making a start so that you know what you are in for.
+Work through the release and see how far you get. Be sure to read through all of [the requirements](1-sudoku/sudoku.md) before making a start so that you know what you are in for.
 
 ###Code Challenge Two (Javascript Racer):
 
