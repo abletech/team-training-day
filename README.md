@@ -31,7 +31,7 @@ Work through the release and see how far you get. Be sure to read through all of
 
 It's time to forget about Sudokus and race off in Javascript fuled racecar. In this next challenge we're going to build a Javascript based speedway game! We'll build a track and two 'cars' will be able to race along it to the finish. We'll only be using HTML, CSS and Javascript (no Coffeescript) in this challenge. It also has an extension element to it. We don't expect you to get there, but if you wizz right through Part One, go ahead and move on.
 
-When you're ready head on over to the [the start line](javascript_racer/javascript_racer.md) and get to it.
+When you're ready head on over to the [the start line](2-javascript_racer/javascript_racer.md) and get to it.
 
 
 ###Retrospective & Quickfire Quiz:
