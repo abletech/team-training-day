@@ -38,6 +38,14 @@ There are no rules here, just make it better. Some things you could look out for
 - Using the most appropriate object types
 - Tidy structure
 
+When refactoring keep in mind design principles that you'd use when working for a client.
+An example of good design is [SOLID Design](http://blog.rubybestpractices.com/posts/gregory/055-issue-23-solid-design.html):
+- Single responsibility principle: an object should have only a single responsibility.
+- Open/closed principle: an object should be open for extension, but closed for modification.
+- Liskov substitution principle: objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program
+- Interface segregation principle: many client specific interfaces are better than one general purpose interface.
+- Dependency inversion principle: depend upon abstractions, do not depend upon concretions
+
 ###Release 2 :  Enhance this!
 
 Maybe a little beyond the scope of refactoring, but fun none-the-less
