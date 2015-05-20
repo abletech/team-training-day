@@ -29,6 +29,7 @@ It's time to forget about Sudokus and race off in Javascript fuled racecar. In t
 
 When you're ready head on over to the [the start line](javascript_racer/javascript_racer.md) and get to it.
 
+
 ###Retrospective & Quickfire Quiz:
 
 ###Lightning Talks & Presentation:
