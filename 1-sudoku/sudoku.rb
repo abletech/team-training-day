@@ -6,6 +6,5 @@ class Sudoku
   end
 
   def board
-    "abc"
   end
 end
