@@ -1,9 +1,10 @@
-# Sudoku 1 Modeling Logic
+# 1: Sudoku
 
-##Learning Competencies
-
-* Model a simple real-world system in code
-* Use Pseudocode effectively to model problem-solving in pairs
+##Goals of the challenge
+- Model & plan out a solution to a problem.
+- Use Pseudocode effectively to model problem-solving in pairs
+- Use TDD to help with your understanding of the problem/solution and verify your code.
+- Complete a solution for a non-trivial problem (if you have time!).
 
 ##Summary
 
@@ -21,7 +22,7 @@ For the first iteration, we're just going build a solver that fills in "logicall
 
 ##Releases
 
-###Release 0 : Modeling
+###Release 0 : Modeling & TDD
 
 ####Modeling: Write down the nouns and verbs of the game
 
@@ -52,6 +53,9 @@ For example, given a cell/square, you'll probably need at least three methods:
 1. Give me the other cells in that cell's row.
 2. Give me the other cells in that cell's column.
 3. Give me the other cells in that cell's box.
+
+We've included some stubbed out specs in `sudoku_spec.rb` that might help to get you started. Your pair's
+implementation of Sudoku Solver might differ, and that's okay! :D
 
 ###Release 1 :  Code it up!
 
@@ -125,3 +129,4 @@ Remember, always start with the simplest test case possible. For a Sudoku solver
 <!-- ##Optimize Your Learning -->
 
 ##Resources
+- Sudoku rules http://www.sudoku.name/rules/en
