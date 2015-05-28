@@ -6,10 +6,10 @@ Abletech's team training day 2015
 - 9:30am - 10:00am: Arrive, caffinate self, debrief of the day ahead
 - 10:00am - 10:50am: Challenge one (Ruby)
 - 11:00am - 11:50pm: Challenge two (Javascript)
-- 12:00pm - 12:30pm: Retrospective 
-- 12:30pm - 1:00pm: Quickfire quiz
+- 12:00pm - 12:30pm: Retrospective
+- 12:30pm - 1:00pm: Quickfire quiz (Shaun)
 - 1:00pm - 2:00pm: Lunch
-- 2:00pm - 3.00pm: Presentations
+- 2:00pm - 3.00pm: Presentations (Shaun, Ross)
 - 3.00pm - 4:00pm: Challenge three (refactoring)
 - 4:00pm - Later: Code off, drinks and pizza
 
