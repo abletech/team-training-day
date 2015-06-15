@@ -14,12 +14,12 @@ Abletech's team training day 2015
 - 1:30pm - 2.30pm: Presentations (Shaun, Ross)
 - 2.30pm - 3:30pm: Challenge three (refactoring)
 - 3:30pm - 3:45pm: Challenge three debrief
-- 4:00pm - Later: Wrap up (Carl). Drinks & Pizza 
+- 4:00pm - Later: Wrap up (Carl). Drinks & Pizza
 
 
 ###Admin
 
-- To see who you have been paired up with for the challenges, check out [this list](pairing-list.md)
+- To see who you have been paired up with for the challenges, check out [these lists](pairing-lists)
 - Although there is an agenda that we would like to ideally stick to, today is about learning, exploring and working as a team. If you want to detour a little from the task in order to achieve these objectives, then that's your call.
 - It'd be great if you could provide feedback on the day, so remember this during the day and perhaps collate your thoughts somewhere. This will make sure that we can curate team events that are increasingly what the team want to be doing.
 
