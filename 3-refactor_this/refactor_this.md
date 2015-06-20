@@ -1,9 +1,9 @@
-# And Bingo was his name-o
+#3: And Bingo was his name-o
 
-##Learning Competencies
-
-* Effectively discuss alternative coding alternatives with your pair
-* Refactor legacy code to improve comprehension
+##Goals of the challenge
+- Effectively discuss alternative coding alternatives with your pair
+- Refactor legacy code to improve comprehension
+- Use design priciples such as SOLID in the process
 
 ##Summary
 
