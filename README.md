@@ -23,6 +23,12 @@ Abletech's team training day 2015
 - Although there is an agenda that we would like to ideally stick to, today is about learning, exploring and working as a team. If you want to detour a little from the task in order to achieve these objectives, then that's your call.
 - It'd be great if you could provide feedback on the day, so remember this during the day and perhaps collate your thoughts somewhere. This will make sure that we can curate team events that are increasingly what the team want to be doing.
 
+###Instructions
+
+Complete the challenge with you pair. **Once you've finished or the we run out of time for the challenge you need to push your code for that challenge into a new branch in the format `[challenge_number]_name_name`.**
+
+For example if Nigel and Sean work together on Challenge 1 then they will push a new branch up called `1_nigel_sean`.
+
 
 ###Code Challenge One (Sudoku Solver):
 
@@ -50,7 +56,4 @@ If you hadn't heard of Sudoku, that is forgivable, BUT if you haven't heard of B
 Why don't you start by running the [driver script](3-refactor_this/driver_script.rb) to understand what it is doing. Makes sense?
 
 Now you're ready to see what is under the hood. Check out [the readme](3-refactor_this/refactor_this.md) and get started.
-
-
-
 
