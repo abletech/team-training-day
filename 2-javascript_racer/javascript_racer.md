@@ -1,5 +1,11 @@
-# Javascript Racer 1 Front End
+# 2: Javascript Racer Front End
 
+##Goals of the challenge
+- Practice our Javascript and HTML skills
+- Practice connecting a JS front end to a back end application
+- Have fun in the process 🎉
+
+##Summary
 Let's create a JavaScript-only racer game.  For now it will be a
 single html page with no back-end at all.  Later we'll add the ability to save
 high scores and the like by adding a back-end to the application.
@@ -64,7 +70,7 @@ care about before you jump into the JavaScript.  Whatever way you choose, it
 should be easy for jQuery/JavaScript to manipulate, so keep that in mind.
 
 If at any stage you get really really stuck during part one of this challenge
-have a peak at this [possible solution](potential_part_one_solution). By no means is it
+have a peek at this [possible solution](potential_part_one_solution). By no means is it
 perfect but it may give you the prompt you need.
 
 ### Release 1: Add JavaScript
@@ -112,7 +118,7 @@ You can have more files, but all CSS and JavaScript should be linked externally
 from the HTML file.
 
 ## Part Two Extension Releases
-### Release 4: JavaScript Racer 2 Back End
+### Release 4: JavaScript Racer Back End
 
 We'll now add a back-end to our JavaScript racer game using a simple MVC
 application.  The game still runs in a single browser instance, i.e., two players don't play each other across different browsers, but rather on a single browser.
