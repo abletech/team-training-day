@@ -42,13 +42,6 @@ It's time to forget about Sudokus and race off in Javascript fuled racecar. In t
 
 When you're ready head on over to the [the start line](2-javascript_racer/javascript_racer.md) and get to it.
 
-
-###Retrospective:
-
-###Quickfire Quiz:
-
-###Presentation:
-
 ###Code Challenge Three (Refactor this!):
 
 If you hadn't heard of Sudoku, that is forgivable, BUT if you haven't heard of Bingo then there really is no excuse. This next exercise requires you to refactor the code that someone wrote to create a command line automatic Bingo game.
