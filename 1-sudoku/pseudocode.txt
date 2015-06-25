@@ -1,0 +1,11 @@
+Starting at the first CellGroup which has the most SetValues
+Take an array of numbers 1-9
+Iterate over this array
+  If number is in the CellGroup
+    Move on to the next number
+
+  Pick an empty to start at
+    If the number is in that cell's row or column
+      Move on to the next number
+    else
+      Add the number to the Cell's potential numbers
