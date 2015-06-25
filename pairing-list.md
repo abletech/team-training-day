@@ -1,10 +1,40 @@
-Pairing list
-=================
+##Pairing List: Challenge 1
 
-###Challenge One
+- Alex - Tracey
+- Kendall - Sean
+- Shaun - Felix
+- Naiki - Michael S
+- Carl - Ross
+- Nigel - Joseph
+- Marcus - Thorsten
+- Cam F - Oliver
+- Jordan - Dawn
+Extra: Andy
 
-###Challenge Two
+##Pairing List: Challenge 2
 
-###Challenge Three
+- Alex - Dawn
+- Kendall - Oliver
+- Shaun - Thorsten
+- Naiki - Ross
+- Carl - Tracey
+- Nigel - Joseph
+- Marcus - Sean
+- Cam F - Michael S
+- Jordan - Felix
+Extra: Andy
 
-###Challenge Four
+
+##Pairing List: Challenge 3
+
+- Alex - Carl
+- Shaun - Marcus
+- Naiki - Tracey
+- Marcus - Michael S
+- Cam F - Dawn
+- Jordan - Kendall
+- Thorsten - Ross
+- Nigel - Oliver
+- Joseph - Felix
+Extra:  Andy
+
