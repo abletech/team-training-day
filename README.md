@@ -3,7 +3,7 @@ Abletech's team training day 2015
 
 ##Agenda
 
-- 9:00am - 9:30am: Arrive, caffinate self
+- 9:00am - 9:30am: Arrive, caffeinate self
 - 9:30am - 9:45am: Brief for the day
 - 9:45am - 11:00am: Challenge one (Ruby)
 - 11:00am - 11:15am: Challenge one debrief
@@ -25,20 +25,20 @@ Abletech's team training day 2015
 
 ###Instructions
 
-Complete the challenge with you pair. **Once you've finished or the we run out of time for the challenge you need to push your code for that challenge into a new branch in the format `[challenge_number]_name_name`.**
+Complete the challenge with your pair. **Once you've finished or we run out of time for the challenge you need to push your code for that challenge into a new branch in the format `[challenge_number]_name_name`.**
 
 For example if Nigel and Sean work together on Challenge 1 then they will push a new branch up called `1_nigel_sean`.
 
 
 ###Code Challenge One (Sudoku Solver):
 
-Everyone loves a good puzzle, and unless you were under a rock in 2005, you would be somewhat familiar with the cult classic the Sudoku. Today, you're going to build a script that will ensure you never fail in completing a Sudoku again - a command line sudoku solver.
+Everyone loves a good puzzle, and unless you were under a rock in 2005, you will be somewhat familiar with the cult classic Sudoku. Today, you're going to build a script that will ensure you never fail in completing a Sudoku again - a command line sudoku solver.
 
 Work through the release and see how far you get. Be sure to read through all of [the requirements](1-sudoku/sudoku.md) before making a start so that you know what you are in for.
 
 ###Code Challenge Two (Javascript Racer):
 
-It's time to forget about Sudokus and race off in Javascript fuled racecar. In this next challenge we're going to build a Javascript based speedway game! We'll build a track and two 'cars' will be able to race along it to the finish. We'll only be using HTML, CSS and Javascript (no Coffeescript) in this challenge. It also has an extension element to it. We don't expect you to get there, but if you wizz right through Part One, go ahead and move on.
+It's time to forget about Sudokus and race off in Javascript fuelled racecar. In this next challenge we're going to build a Javascript based speedway game! We'll build a track and two 'cars' will be able to race along it to the finish. We'll only be using HTML, CSS and Javascript (no Coffeescript) in this challenge. It also has an extension element to it. We don't expect you to get there, but if you whizz right through Part One, go ahead and move on.
 
 When you're ready head on over to the [the start line](2-javascript_racer/javascript_racer.md) and get to it.
 
