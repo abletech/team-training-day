@@ -2,6 +2,15 @@ require 'spec_helper'
 
 RSpec.describe Sudoku do
 
+  describe 'initialize' do
+    let(:sample) { '105802000090076405200400819019007306762083090000061050007600030430020501600308900' }
+    it "" do
+      game = Sudoku.new(sample)
+      game.solve!
+      puts game.board
+    end
+  end
+
   describe '#row_for_cell' do
     it 'should return the row of the given cell';
   end
