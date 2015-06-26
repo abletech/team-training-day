@@ -1,0 +1,15 @@
+grid = '452352523235'
+
+def solved
+  !grid.include? '0'
+end
+
+while !solved
+  loop lines
+    loop columns
+      if element == 0
+        possibilites = []
+        (1..9).each do |number|
+          if !same line and !same column and same square
+            posssibilities.push number
+        grid[columns][lines] = possibilites.first if posssibilities.length = 1
