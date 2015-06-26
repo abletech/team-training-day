@@ -8,8 +8,12 @@ sample_board = [[47, 44, 71, 8, 88],
 
 bingo = Bingo.new(sample_board)
 until bingo.finished
-  ticket = bingo.new_ticket
-  bingo.mark!(ticket)
+  ticket = Ticket.new
+
+  if bingo.checkForMatch(ticket)
+    bingo.mark!(*findPosition(ticket))
+  end
+
   bingo.print_board
   bingo.check_up!
   bingo.check_accross!

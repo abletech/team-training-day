@@ -1,28 +1,44 @@
-class Bingo
+require './board.rb'
 
-  attr_accessor :board, :letters, :finished
+class Bingo
+  LETTERS = %w(B I N G O)
+
+  attr_accessor :board, :finished
 
   def initialize(board)
     @board = board
-    @letters = "BINGO".split("")
+    # @letters = "BINGO".split("") # ['B', 'I', 'N', 'G', 'O']
     @finished = false
   end
 
   def new_ticket
     {letter: @letters.sample, number: rand(1..100)}
+    #{ letter: random letter from 'BINGO', number: random number between 1 and 100 }
   end
 
-  def column(letter)
+  def columnFromLetter(letter)
+    # @letters.index(letter) => 0
     @board.transpose[@letters.index(letter)]
+    # return the first column if B, second column if I...
   end
 
-  def mark!(ticket)
-    letter = ticket[:letter]
-    number = ticket[:number]
-    current_column = column(letter)
-    if current_column.include?(number)
-      @board[current_column.index(number)][@letters.index(letter)] = "X"
-    end
+  def findPosition(ticket)
+    column = columnFromLetter(ticket.letter)
+
+    [LETTERS.index(ticket.letter), column.index(ticket.number)]
+  end
+
+  def checkForMatch(ticket)
+    letter = ticket.letter
+    number = ticket.number
+
+    column = columnFromLetter(ticket.letter)
+
+    column.include?(number)
+  end
+
+  def mark!(x, y)
+    @board[y][x] = "X"
   end
 
   def check_up!
@@ -46,6 +62,7 @@ class Bingo
   def check_sideways!
     diagonal = []
     5.times do |i|
+    # for i = 0; i < 5; i++
       diagonal << @board[i][i]
     end
     if diagonal.all? { |i| i == "X" }
@@ -63,6 +80,7 @@ class Bingo
   def print_board
     system('clear')
     @board.each do |row|
+      # should use another name for number (could be X)
       row.each { |number| print number.to_s.ljust(4) }
       puts
     end
