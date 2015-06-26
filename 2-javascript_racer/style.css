@@ -1,0 +1,23 @@
+body{
+  background: blue;
+}
+
+.racer_table td {
+  background-color: white;
+  height: 20px;
+  width: 20px;
+}
+
+.winner {
+  background-color: yellow;
+  border-color: yellow;
+}
+
+.winner td{
+  background-color: yellow;
+}
+
+.racer_table td.active {
+  background-color: yellow;
+}
+
