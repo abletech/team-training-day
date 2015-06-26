@@ -1,0 +1,36 @@
+html > body {
+  margin: 0;
+  font-family: 'Amatic SC', cursive;
+}
+
+/* PLAYER 1 */
+
+#player-one-section {
+  background-color: #3C97BB;
+  height: 50%;
+  width: 100%;
+}
+
+#player-one-section > h1 {
+  margin: 0;
+}
+
+/* PLAYER 2 */
+
+#player-two-section {
+  background-color: #FA353E;
+  height: 50%;
+  width: 100%;
+}
+
+#player-two-section > h1 {
+  margin: 0;
+}
+
+/* BOTH */
+
+.player > img {
+  width: 150px;
+  position: relative;
+  left: 0px;
+}
